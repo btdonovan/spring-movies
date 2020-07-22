@@ -1,0 +1,98 @@
+[
+  {
+    "title": "The Godfather",
+    "minutes": 175,
+    "genre": "Crime, Drama",
+    "rating": 9.2,
+    "metaScore": 100,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "votes": 1561591,
+    "gross": 134.97,
+    "Year": "1972",
+    "Credits": [
+      {
+        "Person": {
+          "role": "Director",
+          "FirstName": "Francis Ford",
+          "LastName": "Copolla"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Marlon",
+          "LastName": "Brando"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Al",
+          "LastName": "Pacino"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "James",
+          "LastName": "Caan"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Diane",
+          "LastName": "Keaton"
+        }
+      }
+    ]
+  },
+  {
+    "title": "The Godfather: Part II",
+    "minutes": 202,
+    "genre": "Crime, Drama",
+    "rating": 9,
+    "metaScore": 90,
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "votes": 1091420,
+    "gross": 57.30,
+    "Year": "1974",
+    "Credits": [
+      {
+        "Person": {
+          "role": "Director",
+          "FirstName": "Francis Ford",
+          "LastName": "Copolla"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Al",
+          "LastName": "Pacino"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Robert",
+          "LastName": "De Niro"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Robert",
+          "LastName": "Duvall"
+        }
+      },
+      {
+        "Person": {
+          "role": "Star",
+          "FirstName": "Diane",
+          "LastName": "Keaton"
+        }
+      }
+    ]
+  }
+]
